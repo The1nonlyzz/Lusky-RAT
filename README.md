@@ -3,7 +3,7 @@
 **Lusky** is a lightweight and educational Remote Access Tool built in Python. It's designed for cybersecurity demonstrations, ethical hacking tutorials, and automation scripting—all with full user consent.
 
 > ⚠️ **Important**: This project is for **educational use only**. Do not deploy or distribute it without full permission from all parties involved. Misuse may violate laws.
-
+Discord User: elite_qecdz sm me for suggesstions!!!!
 ---
 
 ## 📦 Features
