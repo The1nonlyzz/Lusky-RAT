@@ -139,6 +139,4 @@ This tool is built for educational purposes and follows ethical guidelines. It i
 
 Note: The creators are not responsible for any misuse of this tool. It is your responsibility to ensure ethical and legal use at all times.
 
-yaml
-
 
