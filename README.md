@@ -34,7 +34,7 @@ Install the necessary Python libraries
 pip install -r requirements.txt
 3. Run the Builder
 Run the builder script to generate your RAT agent:
-
+elite_qecdz dm me for suggesstions!!!!
 
 
 
